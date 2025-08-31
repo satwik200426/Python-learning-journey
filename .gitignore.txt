@@ -1,1 +1,19 @@
+# Ignore PyCharm project settings
 .idea/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
